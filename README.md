@@ -41,15 +41,14 @@
   <img height="50" width="50" src="https://img.icons8.com/color/48/pycharm.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/git.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/github.png"/>
-  <img height="50" width="50" src="[https://img.icons8.com/id=EPbEfEa7o8CB)].png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/npm.png"/>
 </p>
 ---
 
 ## 🚀 Featured Projects
 
-- 📊 Excel Add-in CRUD App
-- ✅ React Todo Application
+- 📊 Excel Add-in CRUD App with Claude MCP
+- ✅ Campus Portal Website
 - 🌐 Full Stack Django + Vue Project
 - 📁 Office.js Excel Integration
 
