@@ -4,6 +4,8 @@
 
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
+🎓 B.E. Mechanical Engineering Graduate | Software Developer
+
 - 🌱 Currently learning and building projects in Full Stack Web Development
 - 🎓 Engineering at Shree Venkateshwara Hi-Tech Engineering College
 - 💡 Interested in Frontend Development, Backend APIs, and Excel Add-ins
@@ -11,7 +13,10 @@
 
 ---
 
-## 🌐 https://my-portfolio-q91r.vercel.app/
+## 🌐 Portfolio
+
+🔗 https://my-portfolio-q91r.vercel.app/
+
 
 <br />
 
@@ -21,28 +26,46 @@
 
 ## 💻 I Code In
 
+## Languages & Frameworks
+
 <p align="left">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/python.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/css3.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/bootstrap.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/ios-filled/50/0C4B33/django.png"/>
+
+<img height="50" width="50" src="https://img.icons8.com/color/48/python.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/css3.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/vue-js.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/bootstrap.png"/>
+<img height="50" width="50" src="https://img.icons8.com/ios-filled/50/0C4B33/django.png"/>
+
 </p>
 
 ---
 
-## 🛠️ IDEs & Tools I Use
+## 🗄️ Database & Backend
 
 <p align="left">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/pycharm.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/git.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/github.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/npm.png"/>
+
+<img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/postgreesql.png"/>
+
 </p>
+
+---
+
+## 🛠️ Tools & IDEs
+
+<p align="left">
+
+<img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/pycharm.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/git.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/github.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/npm.png"/>
+
+</p>
+
 ---
 
 ## 🚀 Featured Projects
@@ -54,19 +77,22 @@
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
-- React.js
-- TailwindCSS
-- Office.js
-- REST APIs
-- Full Stack Development
+- ⚛️ Advanced React.js
+- 🎨 TailwindCSS
+- 🔌 REST API Development
+- 🐍 FastAPI
+- 📊 Office.js Excel Integration
+- ☁️ Cloud Deployment
+
+
+
 
 ---
 
+# ⚡ Fun Fact
 
----
+♟️ Chess Trainer | Problem Solver | Developer
 
-## ⚡ Fun Fact
-
-I enjoy building real-world projects and learning modern web technologies 🚀
+I enjoy building real-world applications, exploring new technologies, and continuously improving my development skills 🚀
