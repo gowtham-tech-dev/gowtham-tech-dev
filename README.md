@@ -22,6 +22,47 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gowtham-tech-dev/)
 
+
+---
+
+# 💼 Professional Experience
+
+## 🚀 Full Stack Engineer  
+**SaaStrail Venture Studio**  
+📍 Coimbatore, Tamil Nadu, India  
+📅 Apr 2026 - Present  
+
+**Project: PromptXL Enterprise**
+
+- Working as a Full Stack Engineer developing enterprise-level web applications.
+- Building frontend applications using **Vue.js, PrimeVue, JavaScript, and modern UI practices**.
+- Developing backend APIs and services using **Python, FastAPI, and REST APIs**.
+- Working with databases including **MySQL** for data management and application workflows.
+- Integrating AI-powered features and external services into web applications.
+- Collaborating with developers to design, develop, test, and optimize application features.
+- Using **Git, GitHub, and Agile development practices** for software development.
+
+**Tech Stack:**  
+`Python` `FastAPI` `Vue.js` `PrimeVue` `MySQL` `REST API` `JavaScript` `Git`
+
+---
+
+## 📚 Certified in Python Full Stack Developer   
+**Pumo Technovation India Private Limited**  
+📍 Coimbatore, Tamil Nadu, India  
+📅 Jul 2025 - Nov 2025  
+
+- Completed intensive **Python Full Stack Development training**.
+- Developed web applications using **Python, Django, FastAPI, HTML, CSS, JavaScript **.
+- Built CRUD applications with database integration using **MySQL**.
+- Learned backend development, API creation, authentication, and database management.
+- Developed responsive frontend interfaces using modern web technologies.
+- Worked on real-world projects following software development practices.
+- Practiced version control using **Git and GitHub**.
+
+**Tech Stack:**  
+`Python` `Django` `FastAPI` `JavaScript` `HTML` `CSS` `MySQL` `Git`
+
 ---
 
 ## 💻 I Code In
